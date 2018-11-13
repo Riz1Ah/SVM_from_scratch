@@ -2,6 +2,7 @@
 This repository contains two files-
   1) LinearSVM.py- Classification of linearly separable data using SVM.
   2) LinearlyUnseparable.py- Classification of linearly non-separable data using SVM.
+  3) Support Vector Regression - Linear
   #####################################################################################
 
 The Support vector machine has been coded from scratch.
